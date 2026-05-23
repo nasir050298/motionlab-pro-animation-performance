@@ -1,0 +1,1 @@
+export function SkeletonCard(){return <div className="lab-card animate-pulse p-6"><div className="h-4 w-1/3 rounded bg-white/10"/><div className="mt-5 h-32 rounded-2xl bg-white/10"/><div className="mt-4 h-4 w-2/3 rounded bg-white/10"/><div className="mt-3 h-4 w-1/2 rounded bg-white/10"/></div>}

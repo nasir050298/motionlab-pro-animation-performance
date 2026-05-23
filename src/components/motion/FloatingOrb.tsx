@@ -1,0 +1,1 @@
+import{motion}from"framer-motion";export function FloatingOrb({className="",delay=0}:{className?:string;delay?:number}){return <motion.div animate={{y:[0,-24,0],x:[0,16,0],rotate:[0,12,0]}} transition={{duration:8,repeat:Infinity,delay,ease:"easeInOut"}} className={`absolute rounded-full blur-2xl ${className}`}/>}
