@@ -5,6 +5,7 @@ MotionLab Pro is an advanced React + TypeScript frontend animation and performan
 ## Features
 
 ### Pages
+
 - Home
 - Showcase
 - Performance Lab
@@ -13,6 +14,7 @@ MotionLab Pro is an advanced React + TypeScript frontend animation and performan
 - Contact
 
 ### Animation Techniques
+
 - Page transitions with Framer Motion
 - Scroll reveal animations
 - Staggered card animations
@@ -29,6 +31,7 @@ MotionLab Pro is an advanced React + TypeScript frontend animation and performan
 - Reduced-motion focused settings panel
 
 ### Performance Techniques
+
 - React.lazy route splitting
 - Suspense fallback
 - Skeleton loading states
@@ -70,19 +73,51 @@ npm run preview
 
 Create a `screenshots/` folder and add:
 
-```text
-screenshots/homepage.png
-screenshots/showcase.png
-screenshots/scroll-animation.png
-screenshots/tilt-card.png
-screenshots/spotlight-card.png
-screenshots/parallax-gallery.png
-screenshots/performance.png
-screenshots/loading-states.png
-screenshots/components.png
-screenshots/case-studies.png
-screenshots/mobile-view.png
-```
+## Screenshots
+
+Create a `screenshots/` folder and add:
+
+## Screenshots
+
+### Homepage
+
+![Homepage](screenshots/homepage.png)
+
+### contact
+
+![contact](screenshots/contact.png)
+
+### showcase
+
+![showcase](screenshots/showcase.png)
+
+### parallax-gallery
+
+![parallax-gallery](screenshots/parallax-gallery.png)
+
+### performance
+
+![performance](screenshots/performance.png)
+
+### loading-states
+
+![loading-states](screenshots/loading-states.png)
+
+### components
+
+![components](screenshots/components.png)
+
+### case-studies
+
+![case-studies](screenshots/case-studies.png)
+
+### Mobile View
+
+![Mobile View](screenshots/mobile-view.png)
+
+### Tablet View
+
+![Tablet View](screenshots/tab-view.png)
 
 ## Future Improvements
 
@@ -100,7 +135,7 @@ screenshots/mobile-view.png
 ## Author
 
 **Nasir Uddin Khan**  
-Frontend Developer | React, TypeScript & Full-Stack Web Application Enthusiast  
+Frontend Developer | React, TypeScript & Full-Stack Web Application Enthusiast
 
 Designed and developed as a professional frontend portfolio project to demonstrate motion architecture, animation performance, smooth UI interaction, reusable motion components, and accessibility-aware frontend patterns.
 
